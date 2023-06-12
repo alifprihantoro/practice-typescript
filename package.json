@@ -1,0 +1,14 @@
+{
+  "name": "practice-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:alifprihantoro/practice-typescript.git",
+  "author": "alifprihantoro <alifmuryp@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "boxen": "4.0",
+    "chalk": "2.4",
+    "yargs": "13.2"
+  }
+}
